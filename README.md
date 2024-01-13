@@ -1,2 +1,2 @@
-# Brain Sscratchpad
-Notes and links to useful resource for lengterm memory retention.
+# Brain Scratchpad
+Notes and links to useful resources for longterm memory retention.
