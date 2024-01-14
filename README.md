@@ -9,3 +9,7 @@ Notes and links to useful resources for longterm memory retention.
 ## Engineering Practices
 
 * [Mastering Modern Technology: A Practical Guide to DevOps, SRE, and Platform Engineering](https://devonmyops.com/practical-guide-to-devops-sre-and-platform-engineering/)
+
+# Software Engineering
+
+* [Saga Pattern in Microservices with Node.js](https://blog.bitsrc.io/implementing-saga-pattern-in-a-microservices-with-node-js-aa2faddafac3)
