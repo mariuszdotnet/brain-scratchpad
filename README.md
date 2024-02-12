@@ -12,6 +12,6 @@ Notes and links to useful resources for longterm memory retention.
 * [Continous Integration - Martin Fowler](https://martinfowler.com/articles/continuousIntegration.html)
 * [DORA Metrics](https://linearb.io/blog/dora-metrics-weve-been-using-them-wrong)
 
-# Software Engineering
+## Software Engineering
 
 * [Saga Pattern in Microservices with Node.js](https://blog.bitsrc.io/implementing-saga-pattern-in-a-microservices-with-node-js-aa2faddafac3)
