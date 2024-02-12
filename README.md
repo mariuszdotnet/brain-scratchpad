@@ -10,6 +10,7 @@ Notes and links to useful resources for longterm memory retention.
 
 * [Mastering Modern Technology: A Practical Guide to DevOps, SRE, and Platform Engineering](https://devonmyops.com/practical-guide-to-devops-sre-and-platform-engineering/)
 * [Continous Integration - Martin Fowler](https://martinfowler.com/articles/continuousIntegration.html)
+* [DORA Metrics](https://linearb.io/blog/dora-metrics-weve-been-using-them-wrong)
 
 # Software Engineering
 
