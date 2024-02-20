@@ -15,3 +15,4 @@ Notes and links to useful resources for longterm memory retention.
 ## Software Engineering
 
 * [Saga Pattern in Microservices with Node.js](https://blog.bitsrc.io/implementing-saga-pattern-in-a-microservices-with-node-js-aa2faddafac3)
+* [An Illustrated Guid to OAUTH and OPENID CONNECT](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
